@@ -12,11 +12,15 @@ a:hover,a:focus{
 	padding-top: 0px;
 	height: 50px;
 }
+#header-nav .navbar-brand h1{
+	color:#3a1a71;
+	font-size: 40px;
+}
 .navbar-collapse{
 	overflow: visible;
 }
 
-h1#webpage-title{
+h2#webpage-title{
 	font-size:75px;
 	font-weight: bold;
 }
@@ -26,6 +30,7 @@ h1#webpage-title{
 	border-radius: 3px;
 	background-color: #fffacf;
 	margin-bottom: 15px;
+	box-shadow: 5px 5px 10px #7b7b0e8f ;
 }
 .box h3{
 	font-weight:bold;
